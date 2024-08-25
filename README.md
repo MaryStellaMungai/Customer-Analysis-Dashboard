@@ -12,7 +12,7 @@ The dashboard offers a detailed analysis of revenue metrics, customer demographi
 
 ## Files
 - **Customer Analysis Dashboard.twbx:** Tableau workbook file containing the dashboard.
-- **sales_06_FY2020-21.CSV:** Excel file with the underlying data used for analysis (if applicable).
+- **sales_06_FY2020-21.CSV:** Excel file with the underlying data used for analysis.
 
 ## Key Insights
 - **Total Revenue:** Overview of overall revenue performance.
